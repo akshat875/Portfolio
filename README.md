@@ -6,10 +6,6 @@
 
 <br />
 
-<h3>Demo Screenshots</h3>
-
-<p><img src="https://portfolio-i2xa.vercel.app/" alt="Akshat Portfolio Desktop Demo" title="Desktop Demo" /></p>
-
 <h3>Prerequisites</h3>
 
 <p>Before you begin, ensure you have met the following requirements:</p>
