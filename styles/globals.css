@@ -36,7 +36,7 @@ body {
     }
     @font-face {
       font-family: 'circular-normal';
-      src: url(/public/fonts/Circular-Book.otf);
+      src: url(/public/fonts/.otf);
     }
     @font-face {
       font-family: 'circular-medium';

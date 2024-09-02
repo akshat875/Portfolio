@@ -3,9 +3,11 @@ export const NAME = 'Akshat kumar Vishwakarma';
 export const DESIGNATION = `MERN Stack Developer | Frontend Developer | Java | UI/UX  `;
 
 export const DETAILS = {
-  Residence: 'India',
-  City: 'Lucknow',
+  Residence: 'Lucknow In',
+  
   Age: '22',
+  PHONE: '+918299738240',
+  
 };
 
 export const SKILLS = [
