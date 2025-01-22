@@ -8,8 +8,6 @@ import { Modal } from 'antd';
 
 const CAPTCHA_KEY = process.env.NEXT_PUBLIC_SECRET_KEY; // Make sure this is set in your .env file
 
-
-
 const Contact = () => {
     const [isOpen, setIsOpen] = useState(false);
     const [formData, setFormData] = useState({

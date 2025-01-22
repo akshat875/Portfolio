@@ -5,7 +5,8 @@ export const DESIGNATION = `MERN Stack Developer | Frontend Developer | Java | U
 export const DETAILS = {
   Residence: 'Lucknow In',
   
-  Age: '22',
+  E: 'akshatvishwakarma958@gmail.com',
+
   PHONE: '+918299738240',
   
 };
@@ -25,7 +26,7 @@ export const SKILLS = [
   // },
   {
     title: 'Backend Developer',
-    level: '54%',
+    level: '74%',
   },
   {
     title: 'JAVA',

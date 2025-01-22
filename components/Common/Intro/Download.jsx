@@ -14,7 +14,7 @@ const Download = ({ icon }) => {
   return (
     <>
       <Link
-        href='/Akshat.resume%20(2).pdf'
+        href='/Akshat.res.pdf'
         target='_blank'
         className={`flex flex-row items-center gap-x-4 pb-14 pt-4 px-6 rounded-lg transition-colors duration-300 ${bgColor} ${textColor}`}
         onMouseEnter={() => {
